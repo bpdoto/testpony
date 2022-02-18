@@ -4,6 +4,9 @@ theme:
     name: 'material'
     palette:
 
+extra_css:
+  - stylesheets/extra.css
+
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
