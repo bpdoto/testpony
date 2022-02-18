@@ -1,5 +1,3 @@
-# The High Pony
-
 ###### [WEBSITE](http://bodoto.computer) • [NEWSLETTER](https://mailchi.mp/8cc665f9d3f5/sign-up-for-the-newsletter) • [ZINES](https://bobdoto.computer/ZINES-1) • [BOOKS](https://bobdoto.computer/books) • [VIDEOS](https://bobdoto.computer/videos) • [ABOUT](https://bobdoto.computer/ABOUT-ME) • [CONTACT](https://bobdoto.computer/contact-form)
 ---
 # WELCOME
