@@ -5,6 +5,8 @@ theme:
       logo: fontawesome/solid/horse
     name: 'material'
     palette:
+    font:
+      text: Nunito Sans
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
