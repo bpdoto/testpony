@@ -7,10 +7,10 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: aqua
-      accent: aqua
+      primary: white
+      accent: cyan
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/eye-outline 
         name: Switch to dark mode
 
     # Dark mode
@@ -19,7 +19,7 @@ theme:
       primary: pink
       accent: blue
       toggle:
-        icon: material/toggle-switch
+        icon: material/eye
         name: Switch to light mode
 
 # Extensions
