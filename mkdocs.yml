@@ -2,7 +2,7 @@ site_name: THE HIGH PONY — ESSAYS
 
 theme:
     icon:
-      logo: fontawesome/solid/circle-h
+      logo: fontawesome/solid/horse
     name: 'material'
     palette:
 
