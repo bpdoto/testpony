@@ -1,8 +1,5 @@
 site_name: THE HIGH PONY — ESSAYS
 
-extra_css:
-  - stylesheets/extra.css
-
 theme:
     name: 'material'
     palette:
@@ -24,6 +21,9 @@ theme:
       toggle:
         icon: material/eye
         name: Switch to light mode
+
+extra_css:
+  - stylesheets/extra.css
 
 # Extensions
 markdown_extensions:
