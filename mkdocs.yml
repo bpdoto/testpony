@@ -42,9 +42,9 @@ markdown_extensions:
   - toc:
       permalink: true
 
-plugins:
-  - search
-  - roamlinks 
-
 extra_css:
   - stylesheets/extra.css
+
+plugins:
+  - search
+  - roamlinks
