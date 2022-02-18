@@ -1,5 +1,12 @@
 site_name: THE HIGH PONY — ESSAYS
 
+.nav-file-title:hover,
+.nav-folder-title:hover,
+.nav-file-title-content:hover,
+.nav-folder-title-content:hover{
+color: aqua !important;
+}
+
 theme:
     name: 'material'
     palette:
