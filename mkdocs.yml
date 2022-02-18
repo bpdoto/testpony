@@ -1,7 +1,7 @@
 site_name: THE HIGH PONY — ESSAYS
 
 theme:
-    name: 'minimal'
+    name: 'material'
     palette:
 
     # Light mode
