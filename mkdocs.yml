@@ -22,9 +22,6 @@ theme:
         icon: material/eye
         name: Switch to light mode
 
-extra_css:
-  - stylesheets/extra.css
-
 # Extensions
 markdown_extensions:
   - footnotes
