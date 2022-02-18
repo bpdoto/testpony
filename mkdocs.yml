@@ -6,9 +6,6 @@ theme:
     icon:
       logo: fontawesome/solid/circle-h
 
-extra_css:
-  - stylesheets/extra.css
-
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
