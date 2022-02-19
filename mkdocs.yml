@@ -1,5 +1,8 @@
 site_name: THE HIGH PONY — ESSAYS
 
+extra_css:
+  - stylesheets/extra.css
+
 theme:
     name: 'material'
     icon:
