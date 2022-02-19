@@ -5,7 +5,7 @@ theme:
     icon:
       logo: material/horse-human
     font:
-    text: Roboto
+      text: Roboto
     palette:
 
     # Light mode
