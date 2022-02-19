@@ -1,8 +1,5 @@
 site_name: THE HIGH PONY — ESSAYS
 
-extra_css:
-  - stylesheets/extra.css
-
 theme:
     name: 'material'
     icon:
@@ -10,6 +7,9 @@ theme:
     font:
     text: Mulish
     palette:
+        scheme: youtube
+extra_css:
+  - stylesheets/extra.css
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
