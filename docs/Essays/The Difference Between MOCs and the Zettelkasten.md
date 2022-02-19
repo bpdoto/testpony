@@ -1,11 +1,5 @@
----
-banner_icon: ⍟
----
-
-###### BACK :: [[01 THE HIGH PONY]]
----
-##### 02/16/2022 • ?: min
 # The Difference Between MOCs and the Zettelkasten
+##### 02/16/2022 • ?: min
 
 An MOC system (as I am understanding it) can include a zettelkasten, but because the notes themselves do not _require_ internal links within notes, and also makes room for things like to-dos, name resources, etc (in addition to other kinds of knowledge) is really a different beast.
 
@@ -34,8 +28,8 @@ I would say, yes, absolutely. That is the nature of a zettel. To link them, and 
 
 MOCs certainly have a place in relation to a zettelkasten, especially if they are used as a sort of global look at developing threads of thought, etc. So-called “structure notes” in the zk community function somewhat similarly in that they can be used to structure arguments, build out ideas on one place, etc. But, MOCs are, by definition, more global in scope.
 
-📦  
-  
+📦
+
 
 ---
 

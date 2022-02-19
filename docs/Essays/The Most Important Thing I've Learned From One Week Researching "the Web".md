@@ -1,17 +1,11 @@
----
-banner_icon: ⍟
----
-
-###### BACK :: [[01 THE HIGH PONY]]
----
-##### 02/07/2022 • 06: min
 # The Most Important Thing I Learned From One Week Researching "the Web"
+##### 02/07/2022 • 06: min
 
 ### Answer: There is a difference between the Internet and the World Wide Web
 
 Before you start throwing shade about how ??? let me first agree with you. Discovering that there's a difference between the Internet and the web is probably one of the most n00b "discoveries" of all time. And, like all n00b discoveries, the urge to over-inflate such a realization is the kind of stoned, conspiracy theory-lite, idiocy that much a parody. ("Did you know that money is just an arbitrary means of exchange based on a social agreement, and that we could decide not to agree at any time??? This changes everything!").
 
-So, like, I get it. 
+So, like, I get it.
 
 The realization that the Internet and the World Wide Web are different may not appear to be an earth-shattering discovery, but for the historically web-illiterate, there is power in its simplicity. For anyone interested in having more choices with regards to how they spend their time online, where they spend their time online, and how they want to feel when they spend time online, this simple understanding can act like a skeleton key, unlocking door after door after door.
 
@@ -25,13 +19,13 @@ The World Wide Web, on the other hand, is not. The web is the information, websi
 
 Chances are, if you're online, you're on the web. Google, Facebook, Instagram, Substack, Reddit, even the notoriously racist and seemingly clandestine, 4chan, are all, by definition and function, a part of the web. All the results you get from searching, no matter how seedy and subversive, are part of the web. Porn is on the web. Conspiracy theories are shared on the web. Even the "dark web," the shady alleys accessible only through Tor, where all sorts of nefarious (and genuinely noble) activities take place, is still part of the web.
 
-But, the web is only one of a number of services built on top of and made possible by the Internet. Email and File Transfer are also built on top of this interconnected system of hardwired things. However, not being part of the web, they are inaccessible via web search. You can't Google the email you just sent, not can you Bing the file you just received. 
+But, the web is only one of a number of services built on top of and made possible by the Internet. Email and File Transfer are also built on top of this interconnected system of hardwired things. However, not being part of the web, they are inaccessible via web search. You can't Google the email you just sent, not can you Bing the file you just received.
 
 You'd be excused if you found this confusing. After all, the website you use to access Gmail and send messages (mail.google.com) is on the web. But, the email you sent is not. The website you use to download the FTP protocol you install so you can send large amounts of files quickly is on the web. But, the mechanism by which the file is sent is not. The web, though a unique service built on top of the Internet, is ubiquitous, and so even when we're not on the web, we're often still engaging with it in some way.
 
 ### Antisocial Internet Services
 
-While the web, email, and File Transfer may be the most well-known services running on the Internet, there are a handful of other services that have been quietly doing their thing all these years, out of sight, out of mind. Directory Services, Automatic Network Address Configuration, Network Management Services, and Time Services are all built to function on the Internet. And yet, they too are not part of the web. https://www.geeksforgeeks.org/internet-and-its-services/ 
+While the web, email, and File Transfer may be the most well-known services running on the Internet, there are a handful of other services that have been quietly doing their thing all these years, out of sight, out of mind. Directory Services, Automatic Network Address Configuration, Network Management Services, and Time Services are all built to function on the Internet. And yet, they too are not part of the web. https://www.geeksforgeeks.org/internet-and-its-services/
 
 If you use the Internet for the sole purpose of visiting websites and emailing people, you've most likely never heard of these services before, because without a social component—without providing a platform for people to debate current events or comment on shared images and news stories—there's really no reason for regular users like you and me to access these services. Which is not to say we don't benefit from or engage with them. For example, the Automatic Network Address Configuration provides IP address for every system online in the form of long strings of numbers. We may give these addresses memorable nicknames like "google.com," "etsy.com" and "weratedogs.com," but without the ANAC and their assigning numbers *off* the web, nothing would ever get to where it needs to go *on* the web. https://www.geeksforgeeks.org/internet-and-its-services/
 
@@ -53,14 +47,14 @@ https://history-computer.com/irc-guide/#:~:text=The%20program%2C%20which%20gave%
 
 The fact that the Internet and the web are two distinct things is not the point. The point is that being reminded of such a simple distinction can lead to a slew of other ???? It's the first peek behind the curtain.
 
-Just as sixty years ago it became increasingly apparent that media literacy was a necessary skill to have if people were to reclaim some of their power from the screens in their homes and in the movie theaters, so today is "web literacy" necessary. The less we know about how our online experiences are able to function, the more likely we will default to convenient, corporate, ??? services. In the same way people might opt for locally sourced fruits, vegetables, dairy, and meat, ??? 
+Just as sixty years ago it became increasingly apparent that media literacy was a necessary skill to have if people were to reclaim some of their power from the screens in their homes and in the movie theaters, so today is "web literacy" necessary. The less we know about how our online experiences are able to function, the more likely we will default to convenient, corporate, ??? services. In the same way people might opt for locally sourced fruits, vegetables, dairy, and meat, ???
 
 When a single ??? becomes more popular than the rest, that single ??? can sometimes morph into the thing itself. The web is such a thing. Compared to similar services not on the web, websites are leaps and bounds more attractive and easy to engage with. And yet, it's these shiny new things and the promise (and actuality) of convenience that keep most of us coming back moment after moment, even while we bemoan the experience.
 
-For people who feel beaten down by the onslaught of corporate ???, circumventing the web by engaging with the Internet in a less corporatized way can feel like a breath of fresh pixels. 
+For people who feel beaten down by the onslaught of corporate ???, circumventing the web by engaging with the Internet in a less corporatized way can feel like a breath of fresh pixels.
 
 
-Knowing the language of the land you live in allows you to communicate, make choices, haggle, ??? In short, it empowers you. 
+Knowing the language of the land you live in allows you to communicate, make choices, haggle, ??? In short, it empowers you.
 
 More people understanding how the online world works means more people having the ability to articulate what it is they'd like to see and experience.
 
@@ -68,7 +62,7 @@ More people understanding how the online world works means more people having th
 
 ---
 
-*I want to give a special thanks to all the users on Hacker News who took took the time to answer questions from a n00b like me, as well as to the many geek-posi sites online. Special shout out to TheOdinProject.com, Geeks ??? and Mozill??? for helping me with the absolute basics.* 
+*I want to give a special thanks to all the users on Hacker News who took took the time to answer questions from a n00b like me, as well as to the many geek-posi sites online. Special shout out to TheOdinProject.com, Geeks ??? and Mozill??? for helping me with the absolute basics.*
 
 ---
 
