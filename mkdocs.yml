@@ -1,11 +1,11 @@
-site_name: THE HIGH PONY — ESSAYS
+site_name: THE HIGH PONY ESSAYS
 
 theme:
     name: 'material'
     palette:
-theme:
-  icon:
-    logo: material/horse-human
+
+    icon:
+      logo: material/horse-human
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
@@ -43,4 +43,4 @@ markdown_extensions:
 
 plugins:
   - search
-  - roamlinks 
+  - roamlinks
