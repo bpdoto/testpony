@@ -1,4 +1,4 @@
-site_name: obsidian-mkdocs template
+site_name: BOB DOTO — ESSAYS
 
 theme:
     name: 'material'
@@ -8,7 +8,7 @@ theme:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: white
-      accent: indigo
+      accent: cyan
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
