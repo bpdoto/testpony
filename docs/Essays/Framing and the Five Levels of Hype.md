@@ -1,11 +1,5 @@
----
-banner_icon: ⍟
----
-
-###### BACK :: [[01 THE HIGH PONY]]
----
-###### 01/30/2022 • 04: min
 # The Five Levels of Hype
+###### 01/30/2022 • 04: min
 
 As you'll see, this week I've been thinking a lot about "the web," both in how it functions (the practical), but also in how we frame our discussions about the web (the meta, which is also practical). 
 

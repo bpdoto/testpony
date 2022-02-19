@@ -1,11 +1,5 @@
----
-banner_icon: ⍟
----
-
-###### BACK :: [[01 THE HIGH PONY]]
----
-##### 01/23/2022 • 02 min
 # Mindsets that Prevent(ed) Me From Ever Making Money as an Artist
+##### 01/23/2022 • 02 min
 
 I wasn't raised to believe that artists could be successful. My parents were very supportive of my creativity, but had a very narrow understanding of what it meant to be successful as an artist. 
 

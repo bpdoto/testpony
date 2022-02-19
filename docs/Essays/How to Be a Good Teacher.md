@@ -1,12 +1,5 @@
----
-banner_icon: ⍟
----
-
-###### BACK :: [[01 THE HIGH PONY]]
----
-##### 02/11/2022 • 02: min
-
 # How to Be a Good Teacher
+##### 02/11/2022 • 02: min
 
 After teaching in a variety of settings for the past twenty years (public education, college, punk warehouses, living rooms, online Zoom rooms, etc), I have come to believe that there are three core skill a person must have in order to be a good teacher.
 

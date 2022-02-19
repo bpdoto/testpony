@@ -1,11 +1,6 @@
----
-banner_icon: ⍟
----
-
-###### BACK :: [[01 THE HIGH PONY]]
----
-##### 02/04/2022 • 03 min
 # Is the NYT's Acquisition of Wordle the (mini) End of a (mini) Era?
+##### 02/04/2022 • 03 min
+
 I found out about [Wordle](https://www.powerlanguage.co.uk/wordle/) on a hacker website back in December where, entirely without fanfare, someone posted a link to a new word game. It was free. The UI was basic. The instructions were simple but austere. I played it, found it tricky, but manageable, and immediately shared it with my girlfriend. Then I shared it with my stepmom. A few days later my gf shared the first of her wins, and her and I have been going back and forth ever since. I, a writer, am for some reason worse at Wordle.
 
 This style of web experience, one that feels intimate, peer-to-peer, and on the periphery of big tech is very much alive. If you can find it. The website is still just a tag at the end of the dev's homepage. https://www.powerlanguage.co.uk/wordle/  Like anything worth your time, the goods are usually [a few pages deep in the Search](**[https://christianheilmann.com/2021/12/20/the-web-starts-on-page-four/](https://christianheilmann.com/2021/12/20/the-web-starts-on-page-four/)**). 
