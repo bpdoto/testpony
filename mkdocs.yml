@@ -20,7 +20,7 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: pink
+      primary: cyan
       accent: blue
       toggle:
         icon: material/toggle-switch
