@@ -4,6 +4,8 @@ theme:
     name: 'material'
     icon:
       logo: material/horse-human
+    font:
+    text: Mulish
     palette:
 
     # Light mode
