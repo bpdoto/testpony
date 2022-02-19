@@ -1,20 +1,16 @@
-site_name: THE HIGH PONY — ESSAYS
+site_name: obsidian-mkdocs template
 
 theme:
-    icon:
-      logo: fontawesome/solid/horse
     name: 'material'
     palette:
-    font:
-      text: Mulish
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: white
-      accent: cyan
+      accent: indigo
       toggle:
-        icon: material/eye-outline 
+        icon: material/toggle-switch-off-outline
         name: Switch to dark mode
 
     # Dark mode
@@ -23,7 +19,7 @@ theme:
       primary: pink
       accent: blue
       toggle:
-        icon: material/eye
+        icon: material/toggle-switch
         name: Switch to light mode
 
 # Extensions
@@ -44,4 +40,4 @@ markdown_extensions:
 
 plugins:
   - search
-  - roamlinks
+  - roamlinks 
