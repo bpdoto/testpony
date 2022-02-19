@@ -1,9 +1,3 @@
----
-banner_icon: ⍟
----
-
-###### BACK :: [[01 THE HIGH PONY]]
----
 ##### 02/16/2022 • ?: min
 # The Petit Bourgeoisie and the Changing Signifiers of Cool
 
@@ -11,7 +5,7 @@ While talking with a young, musically-inclined, and very edgy 20-something this 
 
 This is huge.
 
-When I was a kid, it was easy to tell who was legit and who was beholden to mainstream BS. All you had to do was look at their feet and see if they were wearing Doc Martens. Between the ages of thirteen and fourteen, it didn't matter if you were on the baseball team, had a perm, or smiled in your yearbook photo. If you wore Docs (or "chucks"), you were someone to know. 
+When I was a kid, it was easy to tell who was legit and who was beholden to mainstream BS. All you had to do was look at their feet and see if they were wearing Doc Martens. Between the ages of thirteen and fourteen, it didn't matter if you were on the baseball team, had a perm, or smiled in your yearbook photo. If you wore Docs (or "chucks"), you were someone to know.
 
 By the age of sixteen, however, fashion cues became slightly less dominant, superseded by this new thing we didn't have a word for yet: "context." No longer was fashion sense or musical interests the dominant determinate. What mattered was knowing the source: *Where* did you get your music? Tower Records? Bad. Shows? Good. Where did you get your clothes? The mall? Bad. Thrift stores run out of old mansions in weird parts of town where whatever you could fit into a brown paper garbage bag cost you a buck? Good. The means and ways of acquiring the relevant subculture signifiers were almost more important than the signifiers themselves.
 
@@ -42,7 +36,7 @@ Not on the list was "Getting lots of exposure through mainstream channels." It w
 
 ### When the Means of Production are Free
 
-The democratization of the tool hasn't led to an anarchist paradise. It's just made everyone more capitalist. In once sense we could see this as a knock against Marx, who believed that the people reclaiming ownership of the means of production would inevitably lead to communism, a bottom-up revolution where ???. This, of course, is not what is happening. 
+The democratization of the tool hasn't led to an anarchist paradise. It's just made everyone more capitalist. In once sense we could see this as a knock against Marx, who believed that the people reclaiming ownership of the means of production would inevitably lead to communism, a bottom-up revolution where ???. This, of course, is not what is happening.
 
 The "democratization" of the tools of production was not led by working class, proletarian artists, but by the *petit bourgeoisie*, the "small capitalists" who have historically been considered untrustworthy allies in the fight against corporate hegemony.
 
@@ -59,8 +53,8 @@ To know if a band is "anti-established" is to be told. then is wtrni abut the me
 
 
 
-📦  
-  
+📦
+
 
 ---
 
