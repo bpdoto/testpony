@@ -1,19 +1,16 @@
 site_name: THE HIGH PONY — ESSAYS
 
-extra_css:
-  - stylesheets/extra.css
-
 theme:
     name: 'material'
     icon:
       logo: material/horse-human
     font:
-    text: Mulish
+    text: Roboto
     palette:
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: youtube
+      scheme: default
       primary: white
       accent: cyan
       toggle:
