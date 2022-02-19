@@ -1,5 +1,5 @@
-##### 02/16/2022 • ?: min
 # The Petit Bourgeoisie and the Changing Signifiers of Cool
+##### 02/16/2022 • ?: min
 
 While talking with a young, musically-inclined, and very edgy 20-something this weekend, I had a 40-something realization: When it comes to understanding what's important and relevant in the art and music world, context has become almost entirely irrelevant. In other words, the means by which you create, promote, and sell your stuff has no baring on the validity of said stuff.
 
