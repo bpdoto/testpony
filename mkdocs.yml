@@ -3,8 +3,9 @@ site_name: THE HIGH PONY — ESSAYS
 theme:
     name: 'material'
     palette:
-icon:
-  logo: material/horse-human
+theme:
+  icon:
+    logo: material/horse-human
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
